@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AACA,MAAQ,UAAa,CAErB,uBACE,eAAgB,CAChB,aACF,CAEA,UACE,+BACF","file":"main.b1c9be76.chunk.css","sourcesContent":["\ntable { width: 100%; }\n\n.table thead, .table td { \n  text-align: left; \n  padding: 0.25em;\n}\n\n.table tr { \n  border-bottom: 1px solid rgb(100, 100, 100);\n}\n\n"]}
